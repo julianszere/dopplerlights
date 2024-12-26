@@ -4,12 +4,7 @@ This project simulates the relativistic Doppler effect by transforming images ac
 
 \$\$ \lambda' = \frac{\lambda}{\gamma (1 - \beta \cos\theta)} \$\$ 
 
-where:
-- \(\lambda'\): Transformed wavelength  
-- \(\lambda\): Original wavelength  
-- \(\beta = v/c\): Velocity as a fraction of the speed of light  
-- \(\theta\): Angle of view
-- gamma: The lorentz factor
+where \$\lambda'\$ is the transformed wavelength, \$\lambda\$ is the original wavelength, \$\beta = v/c\$ is the velocity as a fraction of the speed of light, \$\theta\$ is the angle of view and \$\gamma\$ is the lorentz factor
 
 
 ## Examples
