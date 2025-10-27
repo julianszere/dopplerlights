@@ -1,6 +1,6 @@
 # Simulation of the Relativistic Doppler Shift Effect on Images
 
-This project was inspired by the well-known joke that at 20% of the speed of light, all red traffic lights would appear green. In fact: 
+This project is inspired by the well-known joke that at 20 % of the speed of light, all red traffic lights would appear green:
 
 <img width="1189" height="453" alt="image" src="https://github.com/user-attachments/assets/87bda606-689f-4724-9ab4-b4470c76b9a1" />
 
@@ -8,7 +8,7 @@ This project was inspired by the well-known joke that at 20% of the speed of lig
 
 ## Description
 
-An observer moving at relativistic speeds perceives both **color** and **shape** changes due to special relativity. The code simulates this transforming an image according to the **relativistic Doppler effect** and **relativistic aberration** of light.
+An observer moving at relativistic speeds perceives both **color** and **shape** changes due to special relativity. The code simulates this by transforming an image according to the **relativistic Doppler effect** and **relativistic aberration** of light.
 
 The wavelength shift follows:
 
